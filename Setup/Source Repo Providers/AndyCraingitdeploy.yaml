@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:Iae3e88XRdynZTVuO_y6xA
+url: https://github.com/andy-crain-kr/harness-admin-training
+urlType: REPO
+username: git

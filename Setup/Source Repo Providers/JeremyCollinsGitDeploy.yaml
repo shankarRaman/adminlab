@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:MtB_MFL8TSi6hIrMmzF-xw
+url: https://github.com/juicyjc/adminlab
+urlType: REPO
+username: git

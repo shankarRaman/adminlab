@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: safeharness:fmmA_6L3QAKE-my8I7Ig4Q
+url: https://github.com/PRappaliniASLabs/adminlab.git
+urlType: REPO
+username: PRappaliniASLabs

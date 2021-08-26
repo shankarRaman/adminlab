@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:5RCmEH4FTq27VcJ4BQtfMQ
+url: https://github.com/shankarRaman/adminlab
+urlType: REPO
+username: git
